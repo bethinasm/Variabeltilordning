@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Variabeltilordning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8dfc65fb6ec6583c1851c646e54a93781029fdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc18b52f5b378bb537c83469598ded16d56511d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Variabeltilordning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Variabeltilordning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
